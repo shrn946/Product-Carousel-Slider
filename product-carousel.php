@@ -48,17 +48,17 @@ function swiper_latest_posts_settings_page() {
     ?>
     <div class="wrap">
         <h1>Swiper Latest Products Settings</h1>
-        <p>Welcome to the Swiper Latest Posts plugin settings page. Use the shortcode <code>[swiper_latest_products]</code> to display all posts.</p>
+        <p>Welcome to the Swiper Latest Products plugin settings page. Use the shortcode <code>[swiper_latest_products]</code> to display all Products.</p>
         <p>You can customize the display using the following attributes:</p>
         <ul>
-            <li><code>category="your-category-slug"</code> - to display posts from a specific category.</li>
-            <li><code>posts_per_page="5"</code> - to display a specific number of posts.</li>
+            <li><code>category="your-category-slug"</code> - to display Products from a specific category.</li>
+            <li><code>posts_per_page="5"</code> - to display a specific number of Products.</li>
         </ul>
         <p>Example usage: <code>[swiper_latest_products category="product-category-slug" posts_per_page="8"]</code></p>
         
  
         <h2>Video Tutorial</h2>
-        <p>Watch the video below to learn more about using the Swiper Latest Posts plugin:</p>
+        <p>Watch the video below to learn more about using the Swiper Latest Products plugin:</p>
         <!-- Add your video iframe code here -->
         <div style="max-width: 800px;">
             <!-- Replace the placeholder below with your actual video iframe code -->
