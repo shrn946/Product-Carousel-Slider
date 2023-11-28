@@ -1,11 +1,8 @@
-# Swiper Js Card Carousel Post Slider
+# Swiper Js Card Carousel Product Slider
 
 ## Developer: Hassan Naqvi
 ## Version: 1.0
-
-
 MIT License
-
 Copyright (c) 2023 Hassan Naqvi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
