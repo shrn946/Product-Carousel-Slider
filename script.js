@@ -15,6 +15,10 @@ jQuery(document).ready(function ($) {
                 slidesPerView: 2,
             
             },
+			 0: {
+                slidesPerView: 1,
+            
+            },
             1020: {
                
                 spaceBetween: 65

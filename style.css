@@ -1,26 +1,14 @@
 /*.swiper-slide{height:400px !important;}*/
 
 /* Hide the Swiper slider initially */
-.swiper {
-  opacity: 0;
-  visibility: hidden;
-  transition: opacity 0.5s ease, visibility 0.5s ease;
-}
 
-/* Fade in effect for the Swiper slider */
-.swiper-loaded {
-  opacity: 1;
-  visibility: visible;
-}
-.swiper .swiper-slide-active {
-  filter: blur(0px);
-}
 
 .swiper {
     width: 100%;
     padding-top: 50px !important;
     padding-bottom: 50px !important;
 }
+
 .s-title a{
 color: #FFFFFF;
     text-decoration: none;

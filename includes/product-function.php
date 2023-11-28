@@ -73,18 +73,7 @@ function swiper_latest_products_shortcode($atts) {
                 
                 <div class="swiper-button-next"></div>
     <div class="swiper-button-prev"></div>
-    <script>jQuery(document).ready(function ($) {
-    var swiper = new Swiper(".swiper", {
-        // Existing Swiper options...
 
-        on: {
-            init: function () {
-                // Add the swiper-loaded class once the Swiper is initialized
-                $(".swiper").addClass("swiper-loaded");
-            },
-        },
-    });
-});</script>
             </div>
         </section>
 
